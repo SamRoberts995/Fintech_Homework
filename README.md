@@ -47,7 +47,7 @@ This company is targeting the first-home owners in a property market that that i
 ---
 
 
-What is the prognosis for this company? Where do they expect to be in the future?
+### What is the prognosis for this company? Where do they expect to be in the future?
 
 Given the nature of the business, first home buyers will be attracted to this business model due to the current conditions of the property market. This company has the backing of some of the largest corporations such as CBA, Square Peg, X15. 
 
